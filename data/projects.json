@@ -1,9 +1,29 @@
 [
 	{
+		"title": "We Cycle",
+		"skills": "React JS/GCC",
+		"platform": "Google Firebase Deployment",
+		"duration": "",
+		"running": true,
+		"link": "https://wicycle-9e525.firebaseapp.com/",
+		"role": "Full Stack developer",
+		"description": "We cycle is a website developed for putting the product and get paid. It is under development deployed on google firebase."
+	},
+	{
+		"title": "Hopn Track (With Vendor and Admin Panel)",
+		"skills": "Node JS/React JS/MongoDB/AWS",
+		"platform": "Ubuntu 18.04",
+		"duration": "",
+		"running": true,
+		"link": "https://www.hopntrack.com/",
+		"role": "Full Stack developer",
+		"description": "Hopntrack is an application developed for both plateform Android/iOS for the organization emoloyees, to pic them from their home and drop them to their office, it is also used for dropping the kids to school and vice-versa. The application is developed in native Android and iOS, back-end is written in Nodejs with MongoDB database, Panel is develope in React JS."
+	},
+	{
 		"title": "Slots",
 		"skills": "Node JS/Angular/MongoDB/AWS",
 		"platform": "Ubuntu 18.04",
-		"duration": "15 Januarry 2018",
+		"duration": "",
 		"running": true,
 		"link": "",
 		"role": "Full Stack developer",
@@ -11,19 +31,19 @@
 	},
 	{
 		"title": "Be My Guest",
-		"skills": "Node JS/MongoDB/AWS",
+		"skills": "Node JS/React Native/MongoDB/AWS",
 		"platform": "Ubuntu 16.04",
-		"duration": "November 2018",
+		"duration": "",
 		"running": true,
 		"link": "",
-		"role": "Back-end End Developer",
+		"role": "Full Stack Developer",
 		"description": "It is a Tinder like app for both android and iOS users to offer different offers like movies, exibitions, dinner, and many more to eachother. It has matching functionality like Tinder which allows users to chat each other."
 	},
 	{
 		"title": "Le Passe Trape",
 		"skills": "Node JS/Angular/MongoDB/AWS",
 		"platform": "Ubuntu 18.04",
-		"duration": "November 2018 - December 2018",
+		"duration": "",
 		"running": false,
 		"link": "",
 		"role": "Full Stack Developer",
@@ -33,10 +53,20 @@
 		"title": "Partner Application",
 		"skills": "Node JS/Angular/MongoDB/AWS",
 		"platform": "Ubuntu 18.04",
-		"duration": "June 2018 - August 2018",
+		"duration": "",
 		"running": false,
 		"link": "",
 		"role": "Full Stack Developer",
 		"description": "It is an application from where user can post their work requirment like Construction/Developement andy kind of works, other user can bid on the post and apply for the job, admin can manage the bids and select the appropriate bid suitable for the work, super admin can only check the users and take strict action if anything goes wrong."
+	},
+	{
+		"title": "HODL",
+		"skills": "Node JS/MongoDB/Heroku",
+		"platform": "Heroku deployemnt",
+		"duration": "",
+		"running": false,
+		"link": "",
+		"role": "Back-end developer",
+		"description": "It is a cryptocurrency application available only for iOS. The project was completed partially, I have done the notification part, there is many kinds of notifications, user can set there upper bound or lower bound rate for any currency and whenever the rate gets meet the user bound then the back-end fires the notifications, we need to check each and every currecy rate because criptocurrency never allowed more then 100 reqeust within the second. It may be increased now."
 	}
 ]
