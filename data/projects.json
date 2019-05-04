@@ -65,7 +65,7 @@
 		"platform": "Heroku deployemnt",
 		"duration": "",
 		"running": false,
-		"link": "",
+		"link": "https://itunes.apple.com/us/app/hodl-real-time-cryptocurrency/id1253668876?mt=8",
 		"role": "Back-end developer",
 		"description": "It is a cryptocurrency application available only for iOS. The project was completed partially, I have done the notification part, there is many kinds of notifications, user can set there upper bound or lower bound rate for any currency and whenever the rate gets meet the user bound then the back-end fires the notifications, we need to check each and every currecy rate because criptocurrency never allowed more then 100 reqeust within the second. It may be increased now."
 	}
