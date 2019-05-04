@@ -1,0 +1,14 @@
+{
+    "avatar": "manish.png",
+    "name": "Manish Kumar",
+    "work": "Software Engineer",
+    "address": "#782/B Small Flats, Dhanas, Chandigarh",
+    "email": "manish24898@outlook.com",
+    "birthday": "24 August, 1994",
+    "mobiles": [
+        {
+            "country": "in",
+            "number": "+91-7888467626"
+        }
+    ]
+}
